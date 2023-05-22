@@ -1,3 +1,3 @@
-<?php 
+<?php
 
-echo "ini adalah index"
+echo "ini adalah index";
